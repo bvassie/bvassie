@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vassie79
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m Ben.
+- 👀 I’m interested in anything code and cloud related.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [Twitter](https://twitter.com/vassie)
 
